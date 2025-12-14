@@ -19,7 +19,7 @@ The implementation has been **slightly modified** for learning purposes, but mos
 ## Installation / Usage
 
 1. Clone or download the repository
-2. Open the `index.html` or relevant file in your browser
+2. Open the `index.html`
 3. Experiment with the CSS to reinforce your learning
 
 ## License
